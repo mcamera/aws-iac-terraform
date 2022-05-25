@@ -3,7 +3,7 @@
 Code example for Infrastructure as Code using Terraform on the AWS Cloud.
 
 ## 1. Goal
-Deploy a bucket and a python file in the AWS Cloud using Terraform as Infrasctructure as Code platform.
+Deploys a bucket and a python file in the AWS Cloud using Terraform as Infrastructure as Code platform.
 
 ## 2. Requisites
 ### AWS CLI
